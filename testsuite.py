@@ -1,6 +1,6 @@
 import unittest
 
-from test_suite import add_numbers
+from add_num import add_numbers
 
 class TestFunction(unittest.TestCase):
 
